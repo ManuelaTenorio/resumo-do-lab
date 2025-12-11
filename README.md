@@ -29,7 +29,7 @@ Benefícios da nuvem e o que ver ao criar uma VM.
 
 Estudar até o slide 10 para a P1.
 
-06/11 – Reposição
+06/12 – Reposição
 
 Criação de uma máquina virtual.
 <img width="1365" height="722" alt="azure 1" src="https://github.com/user-attachments/assets/51340490-dc66-43c7-8081-7a7523f1318c" />
