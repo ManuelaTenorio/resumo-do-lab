@@ -28,3 +28,12 @@ Criação da conta no Azure e primeiros testes.
 Benefícios da nuvem e o que ver ao criar uma VM.
 
 Estudar até o slide 10 para a P1.
+
+06/11 – Reposição
+
+Criação de uma máquina virtual.
+<img width="1365" height="722" alt="azure 1" src="https://github.com/user-attachments/assets/51340490-dc66-43c7-8081-7a7523f1318c" />
+<img width="1355" height="722" alt="azure 2" src="https://github.com/user-attachments/assets/bcc21049-3e46-463e-b2f7-7616c7159233" />
+<img width="1334" height="704" alt="azure 3" src="https://github.com/user-attachments/assets/2f864435-12e3-49ea-97dd-c4d95d2e117b" />
+
+
