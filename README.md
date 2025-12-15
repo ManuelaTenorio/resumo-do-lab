@@ -1,37 +1,45 @@
-# resumo-do-lab
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab 
+# 📘 Resumo das Lições Aprendidas – Desenvolvimento do Lab
 
-18/11
+Este repositório contém um resumo das lições aprendidas durante o desenvolvimento do lab ao longo das aulas.
 
-Começo da matéria.
+---
 
-Diferença entre cliente, API e servidor.
+## 📅 18/11 – Início da Matéria
+- Diferença entre **cliente**, **API** e **servidor**
+- Conceito de **computação em nuvem**
+- Modelo de pagamento: **pagar apenas pelo uso**
+- Tipos de ambiente:
+  - Local
+  - Nuvem
+  - Híbrido (misto)
 
-O que é nuvem e a ideia de pagar só pelo uso.
+---
 
-Tipos de ambiente: local, nuvem e misto.
+## 📅 25/11 – Continuação
+- Revisão da aula anterior
+- Conceito de **máquinas virtuais (VMs)**
+- **Zonas de disponibilidade**
+- Introdução ao **SaaS (Software as a Service)**
 
-25/11
+---
 
-Revisão da aula anterior.
+## 📅 29/11 – Aula de Reposição
+- Modelo de **responsabilidade compartilhada**
+- Criação da conta no **Microsoft Azure**
+- Primeiros testes na plataforma
+- Benefícios da computação em nuvem
+- Pontos importantes ao criar uma **máquina virtual**
+- 📌 **Estudo para a P1:** slides até o **slide 10**
 
-Conceito de máquinas virtuais e zonas de disponibilidade.
+---
 
-Introdução ao SaaS.
+## 📅 06/12 – Aula de Reposição
+- Criação prática de uma **máquina virtual**
 
-29/11 – Reposição
+---
 
-Responsabilidade compartilhada.
+📚 *Conteúdo voltado ao aprendizado de computação em nuvem e uso do Microsoft Azure.*
 
-Criação da conta no Azure e primeiros testes.
-
-Benefícios da nuvem e o que ver ao criar uma VM.
-
-Estudar até o slide 10 para a P1.
-
-06/12 – Reposição
-
-Criação de uma máquina virtual.
 <img width="1365" height="722" alt="azure 1" src="https://github.com/user-attachments/assets/51340490-dc66-43c7-8081-7a7523f1318c" />
 <img width="1355" height="722" alt="azure 2" src="https://github.com/user-attachments/assets/bcc21049-3e46-463e-b2f7-7616c7159233" />
 <img width="1334" height="704" alt="azure 3" src="https://github.com/user-attachments/assets/2f864435-12e3-49ea-97dd-c4d95d2e117b" />
